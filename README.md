@@ -18,7 +18,7 @@
 
 
 
-Main commands:31-21-148:~/code$
+Main commands code$
   init          Prepare your working directory for other commands
   validate      Check whether the configuration is valid
   plan          Show changes required by the current configuration
